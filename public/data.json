@@ -1,0 +1,69 @@
+{
+    "whyGf": [
+        {
+            "src": "/fi_12192596.png",
+            "title": "Health awareness",
+            "description": "Our portions are bigger. Meals designed to fill you up with the nutrients you need to perform at your best"
+        },
+        {
+            "src": "/fi_2736046.png",
+            "title": "More Protein",
+            "description": "Protein-rich meals to FUEL your workouts, improve recuperation, and increase outcomes."
+        },
+        {
+            "src": "/fi_11790528.png",
+            "title": "Uneding Variety",
+            "description": "Select breakfasts, snacks, and bulk proteins/sides. You can change it up at any moment or stick with the same routine."
+        }
+    ],
+    "meals":[
+        {
+            "id": "id1",
+            "src": "/food-1.png"
+        },
+        {
+            "id": "id2",
+            "src": "/food-2.png"
+        },
+        {
+            "id": "id3",
+            "src": "/food-3.png"
+        },
+        {
+            "id": "id4",
+            "src": "/food-4.png"
+        },
+        {
+            "id": "id5",
+            "src": "/food-5.png"
+        },
+        {
+            "id": "id6",
+            "src": "/food-6.png"
+        },
+        {
+            "id": "id7",
+            "src": "/food-7.png"
+        },
+        {
+            "id": "id8",
+            "src": "/food-8.png"
+        },
+        {
+            "id": "id9",
+            "src": "/food-9.png"
+        },
+        {
+            "id": "id10",
+            "src": "/food-10.png"
+        },
+        {
+            "id": "id11",
+            "src": "/food-11.png"
+        },
+        {
+            "id": "id12",
+            "src": "/food-12.png"
+        }
+    ]
+}
