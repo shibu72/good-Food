@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
-    <div className="shadow">
+    <div className="shadow bg-base-200">
         <nav className="navbar items-center align-middle justify-between justify-items-center w-[70%] m-auto">
     <img src="/logo.png" alt="" />
     <div>

@@ -10,6 +10,9 @@ export default {
       colors: {
         bg_green: '#6EA963',
         bg_orange: '#FDB64E',
+      },
+      backgroundImage: {
+        'header-bg': "url('/headerBg.png')",
       }
     },
   },
