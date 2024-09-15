@@ -7,7 +7,7 @@ useEffect(()=>{
 })
   return (
     <div className="w-[70%] m-auto">
-      <h1>Select your meal plans</h1>
+      <h1 className="text-5xl">Select your meal plans</h1>
 
       <div className="flex flex-wrap items-center justify-between">
         <div className="grid gap-2 items-center justify-center w-fit p-5 shadow-lg font-semibold">
