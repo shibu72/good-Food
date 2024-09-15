@@ -5,7 +5,7 @@ import Header from "../shared/Header";
 
 export default function Main() {
   return (
-    <div className="bg-header-bg bg-no-repeat bg-top bg-contain bg-fixed h-screen w-[100%]">
+    <div className="">
       <div className="bg-base-200">
       <Header/>
       <Navbar/>
