@@ -6,13 +6,14 @@ import Header from "../shared/Header";
 export default function Main() {
   return (
     <div>
-      <div>
+      
       <Header/>
       <Navbar/>
-      </div>
+      
       <div className="min-h-screen">
       <Outlet/>
       </div>
+      
       <Footer/>
     </div>
   )
