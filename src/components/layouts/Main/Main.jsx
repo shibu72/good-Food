@@ -5,8 +5,8 @@ import Header from "../shared/Header";
 
 export default function Main() {
   return (
-    <div className="">
-      <div className="bg-base-200">
+    <div>
+      <div>
       <Header/>
       <Navbar/>
       </div>
