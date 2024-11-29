@@ -8,8 +8,9 @@ export default function Main() {
     <div>
       
       <Header/>
-      <Navbar/>
+      
       <div className="h-screen">
+        <Navbar/>
       <Outlet/>
       </div>
       <Footer/>
