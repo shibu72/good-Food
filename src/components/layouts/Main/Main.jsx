@@ -9,11 +9,9 @@ export default function Main() {
       
       <Header/>
       <Navbar/>
-      
-      <div className="min-h-screen">
+      <div className="h-screen">
       <Outlet/>
       </div>
-      
       <Footer/>
     </div>
   )
