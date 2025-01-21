@@ -9,7 +9,7 @@ export default function Main() {
       
       <Header/>
       
-      <div className="h-screen">
+      <div className="h-auto">
         <Navbar/>
       <Outlet/>
       </div>
